@@ -1,9 +1,3 @@
-You've done the heavy lifting\! This README is designed to highlight your technical skills, your ability to handle real-world API issues, and your eye for clean UI/UX.
-
-Copy and paste this into the `README.md` file in your **root** folder.
-
------
-
 # 📝 AI Text Summarizer (Full-Stack)
 
 A modern web application that transforms unstructured, messy text into structured, actionable insights using the **Llama 3.3 70B** model.
@@ -83,7 +77,3 @@ During development, the original Llama 3 8B model was decommissioned by the prov
   - **Frontend:** React.js, Axios, CSS-in-JS.
   - **Backend:** Node.js, Express, OpenAI SDK (Groq-compatible).
   - **LLM:** Llama 3.3 70B via Groq (chosen for sub-second inference speeds).
-
-## 📊 Example Output
-
-*(Replace the text below with the path to your saved screenshot)*
